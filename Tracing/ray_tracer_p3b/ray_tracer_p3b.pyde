@@ -1,5 +1,16 @@
 # Cassie Mullins
-# Project 3B: Attack of the Triangles
+# This is a simple ray tracing program that takes in text-files full of vertex coordinates 
+# and shader information and generates images.
+# To Run you will need to download Processing at: https://processing.org/download/
+# Unzip the files and then open the processing app.
+# In the top right corner there is a dropdown menu to choose the mode, by default it is Java.
+# You will need to switch Processing to be in Python, so from that menu select Add Mode.
+# Search for and download/install Python mode. Then switch to Python in the dropdown menu.
+
+# Run the code by hitting the play button.
+# There are 10 different scenes that can be rendered, choose between them by hitting the number keys.
+# It may take around a minute for a scene to be rendered.
+
 
 #Import all the Classes
 from Hit import *
